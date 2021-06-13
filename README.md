@@ -24,7 +24,7 @@ https://afisha.live/map
 ![image](https://user-images.githubusercontent.com/7519556/121822574-7dad1800-cca8-11eb-82fe-532e2a932c1b.png)
 
 
-Фильтры рекомендаций
+Фильтры рекомендаций, с возможностью сохранить фильтр. Он будет использоваться для создания подборки мероприятий для данного пользователя в чат-ботах (vk, почта, viber, telegram, push-уведомления).
 
 ![image](https://user-images.githubusercontent.com/7519556/121822551-53f3f100-cca8-11eb-8c52-d05d72d99a6b.png)
 
@@ -43,11 +43,14 @@ http://afisha.live/map/event/80680257
 
 Личный кабинет
 https://afisha.live/profile/settings
+
 Пользователь: goodlife22@mail.ru
 Пароль: test
 
 Пользователь указывает свои данные
+
 ![image](https://user-images.githubusercontent.com/7519556/121822728-4b4fea80-cca9-11eb-9e7c-1e729f1b5d3d.png)
 
 И выбирает время и дни недели, в которые хочет получать подборку мероприятий по его интересам, рядом с ним
+
 ![image](https://user-images.githubusercontent.com/7519556/121822741-56a31600-cca9-11eb-9673-23f3e020b299.png)
