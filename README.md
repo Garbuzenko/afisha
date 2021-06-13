@@ -14,20 +14,24 @@
 
 Главная
 https://afisha.live
+
 ![image](https://user-images.githubusercontent.com/7519556/121822562-6837ee00-cca8-11eb-9b40-9dd10b47660d.png)
 
 
 Карта мероприятий
 https://afisha.live/map
+
 ![image](https://user-images.githubusercontent.com/7519556/121822574-7dad1800-cca8-11eb-82fe-532e2a932c1b.png)
 
 
 Фильтры рекомендаций
+
 ![image](https://user-images.githubusercontent.com/7519556/121822551-53f3f100-cca8-11eb-8c52-d05d72d99a6b.png)
 
 
 Список мероприятий
 https://afisha.live/afisha
+
 ![image](https://user-images.githubusercontent.com/7519556/121822616-afbe7a00-cca8-11eb-857d-7ab256e2998a.png)
 
 
